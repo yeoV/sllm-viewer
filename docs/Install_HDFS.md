@@ -4,7 +4,10 @@
 <https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution>
 
 ### 설치 가이드
-
+- Hadoop file download
+```
+wget https://dlcdn.apache.org/hadoop/common/stable/hadoop-3.3.6-aarch64.tar.gz
+```
 ```
 hdfs namenode -format
 ```

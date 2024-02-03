@@ -8,9 +8,6 @@
 ```
 wget https://dlcdn.apache.org/hadoop/common/stable/hadoop-3.3.6-aarch64.tar.gz
 ```
-```
-hdfs namenode -format
-```
 
 # 0203 일 hdfs Single Node local설치
 
